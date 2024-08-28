@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class conditon {
     public static void main(String[] args) {
+
         Scanner n = new Scanner(System.in);
         System.out.println("Enter x :");
         int x = n.nextInt();
